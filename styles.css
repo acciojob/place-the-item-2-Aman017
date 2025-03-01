@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holdeer{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	gap:10px;
+}
+.item{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
